@@ -9,10 +9,10 @@
 This project showcases essential SQL skills used by data analysts to explore, clean, and analyze retail sales data. It involves building a retail sales database, conducting exploratory data analysis (EDA), and writing SQL queries to answer key business questions. Designed for aspiring data analysts, this project serves as a strong foundation for developing practical SQL proficiency in a real-world context.
 
 ## Objectives
-1.**Database Setup**:Created and populated a structured retail sales database using the provided dataset.
-2.**Data Cleaning**:Detected and removed records with missing or null values to ensure data accuracy.
-3.**Exploratory Data Analysis (EDA)**: Conducted initial analysis to understand data distribution, patterns, and key metrics.
-4.**Business Analysis**:Executed targeted SQL queries to answer business questions and extract actionable insights from the sales data.
+1. **Database Setup**: Created and populated a structured retail sales database using the provided dataset.
+2. **Data Cleaning**: Detected and removed records with missing or null values to ensure data accuracy.
+3. **Exploratory Data Analysis (EDA)**: Conducted initial analysis to understand data distribution, patterns, and key metrics.
+4. **Business Analysis**: Executed targeted SQL queries to answer business questions and extract actionable insights from the sales data.
 
 ## Project Structure
 
@@ -188,10 +188,10 @@ GROUP BY shift
 
 ## Findings
 
-1.**Customer Demographics**: The dataset features a diverse customer base across multiple age groups, with purchases spanning categories like Clothing and Beauty.
-2.**High-Value Transactions**: Identified numerous transactions exceeding $1,000, highlighting segments of high-value or premium purchases.
-3.**Sales Trends**: Monthly sales analysis revealed fluctuations, providing insight into seasonal demand and peak performance periods.
-4,**Customer Insights**: Pinpointed top-spending customers and identified the most in-demand product categories, offering valuable business intelligence.
+1. **Customer Demographics**: The dataset features a diverse customer base across multiple age groups, with purchases spanning categories like Clothing and Beauty.
+2. **High-Value Transactions**: Identified numerous transactions exceeding $1,000, highlighting segments of high-value or premium purchases.
+3. **Sales Trends**: Monthly sales analysis revealed fluctuations, providing insight into seasonal demand and peak performance periods.
+4. **Customer Insights**: Pinpointed top-spending customers and identified the most in-demand product categories, offering valuable business intelligence.
 
 ## Reports
 
