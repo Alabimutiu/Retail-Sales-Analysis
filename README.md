@@ -214,11 +214,7 @@ This project provides a well-rounded introduction to SQL for aspiring data analy
 
 This project showcases the SQL capabilities I've developed, reflecting key competencies required in data analyst positions.
 
-### Stay Updated and Join the Community
-
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
-
+### Connect with me
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/mutiu-sulaimon-7b604367/)
-
 
 Thank you for your support, and I look forward to connecting with you!
